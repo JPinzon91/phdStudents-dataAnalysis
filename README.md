@@ -1,17 +1,17 @@
-# 📊 PhD candidates - Data Analysis
+# PhD candidates - Data Analysis
 
 > Short catchy description (1–2 lines).
 
 ---
 
-## 🛠️ Overview
+## Overview
 This project is a [short description here].
 
 It addresses [problem or need], and is intended for [target audience or user group].
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Overview | Details |
 |:--------:|:-------:|
@@ -21,7 +21,7 @@ It addresses [problem or need], and is intended for [target audience or user gro
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 - Power BI
 - Python (pandas, plotly)
 - SQL (PostgreSQL)
@@ -29,10 +29,10 @@ It addresses [problem or need], and is intended for [target audience or user gro
 
 ---
 
-## 🚀 How to View or Use
+## How to View or Use
 - Open the `.pbix` file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 - Or view the live dashboard here 👉 [View Dashboard](https://your-dashboard-link.com)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
